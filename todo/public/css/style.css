@@ -1,0 +1,55 @@
+#header {
+    margin-bottom: 10px;
+}
+#header h1 {
+    font-size: 50px;
+    text-transform: uppercase;
+    border-bottom: 3px dotted gray;
+    padding: 5px 0;
+}
+section.input {
+    margin-bottom: 50px;
+}
+
+input[type="text"] {
+    margin-left: 40px;
+    padding: 8px 20px;
+    border: 2px solid rgba(51, 122, 183, 0.64);
+    width: 500px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    margin-left: 49px;
+    padding: 10px 21px;
+}
+ul {
+    list-style: none;
+}
+.task ul li {
+    padding: 15px;
+    background: rgba(245, 245, 245, 0.68);
+    border-bottom: 2px dotted rgba(128, 128, 128, 0.53);
+    font-size: 15px;
+}
+body{
+   background: rgba(245, 245, 245, 0.68)
+}
+.delete ul>li {
+    padding: 9px;
+}
+.btn-default {
+    color: #333;
+    background-color: rgb(245, 245, 245);
+    border: 2px solid rgba(10, 15, 19, 0.34);
+    padding: 7px 30px;
+    font-size: 14px;
+}
+.footer{
+    margin-top: 30px;
+}
+.file{
+    padding-left: 20px;
+    padding-top: 10px;
+}
